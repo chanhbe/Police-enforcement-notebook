@@ -1,0 +1,821 @@
+[
+  {
+    "year": 2008,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1887,
+    "breath_tests_total": 89354,
+    "positivity_rate_pct": 2.1118
+  },
+  {
+    "year": 2008,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 27368,
+    "breath_tests_total": 4204525,
+    "positivity_rate_pct": 0.6509
+  },
+  {
+    "year": 2008,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 9460,
+    "breath_tests_total": 111662,
+    "positivity_rate_pct": 8.472
+  },
+  {
+    "year": 2008,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 26975,
+    "breath_tests_total": 2883056,
+    "positivity_rate_pct": 0.9356
+  },
+  {
+    "year": 2008,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 10467,
+    "breath_tests_total": 661839,
+    "positivity_rate_pct": 1.5815
+  },
+  {
+    "year": 2008,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 4563,
+    "breath_tests_total": 678140,
+    "positivity_rate_pct": 0.6729
+  },
+  {
+    "year": 2008,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 19190,
+    "breath_tests_total": 3516900,
+    "positivity_rate_pct": 0.5457
+  },
+  {
+    "year": 2008,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 14532,
+    "breath_tests_total": 661386,
+    "positivity_rate_pct": 2.1972
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1628,
+    "breath_tests_total": 88403,
+    "positivity_rate_pct": 1.8416
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 26595,
+    "breath_tests_total": 4440862,
+    "positivity_rate_pct": 0.5989
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 10990,
+    "breath_tests_total": 159374,
+    "positivity_rate_pct": 6.8957
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 32696,
+    "breath_tests_total": 3098664,
+    "positivity_rate_pct": 1.0552
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 10954,
+    "breath_tests_total": 716186,
+    "positivity_rate_pct": 1.5295
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 5120,
+    "breath_tests_total": 613945,
+    "positivity_rate_pct": 0.834
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 18246,
+    "breath_tests_total": 3641499,
+    "positivity_rate_pct": 0.5011
+  },
+  {
+    "year": 2009,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 13039,
+    "breath_tests_total": 512595,
+    "positivity_rate_pct": 2.5437
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1447,
+    "breath_tests_total": 97612,
+    "positivity_rate_pct": 1.4824
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 24411,
+    "breath_tests_total": 4637033,
+    "positivity_rate_pct": 0.5264
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 10842,
+    "breath_tests_total": 181626,
+    "positivity_rate_pct": 5.9694
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 33638,
+    "breath_tests_total": 3199185,
+    "positivity_rate_pct": 1.0515
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 10172,
+    "breath_tests_total": 731645,
+    "positivity_rate_pct": 1.3903
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 3895,
+    "breath_tests_total": 606991,
+    "positivity_rate_pct": 0.6417
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 16297,
+    "breath_tests_total": 3864296,
+    "positivity_rate_pct": 0.4217
+  },
+  {
+    "year": 2010,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 11595,
+    "breath_tests_total": 551911,
+    "positivity_rate_pct": 2.1009
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1488,
+    "breath_tests_total": 100217,
+    "positivity_rate_pct": 1.4848
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 22117,
+    "breath_tests_total": 4520010,
+    "positivity_rate_pct": 0.4893
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 8914,
+    "breath_tests_total": 176358,
+    "positivity_rate_pct": 5.0545
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 27264,
+    "breath_tests_total": 3369995,
+    "positivity_rate_pct": 0.809
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 10034,
+    "breath_tests_total": 604722,
+    "positivity_rate_pct": 1.6593
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 3527,
+    "breath_tests_total": 559854,
+    "positivity_rate_pct": 0.63
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 13925,
+    "breath_tests_total": 3513951,
+    "positivity_rate_pct": 0.3963
+  },
+  {
+    "year": 2011,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 10644,
+    "breath_tests_total": 603484,
+    "positivity_rate_pct": 1.7638
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1418,
+    "breath_tests_total": 90817,
+    "positivity_rate_pct": 1.5614
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 19982,
+    "breath_tests_total": 4735462,
+    "positivity_rate_pct": 0.422
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 9332,
+    "breath_tests_total": 167667,
+    "positivity_rate_pct": 5.5658
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 25320,
+    "breath_tests_total": 3483717,
+    "positivity_rate_pct": 0.7268
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 9267,
+    "breath_tests_total": 542219,
+    "positivity_rate_pct": 1.7091
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 2916,
+    "breath_tests_total": 550354,
+    "positivity_rate_pct": 0.5298
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 13033,
+    "breath_tests_total": 3943320,
+    "positivity_rate_pct": 0.3305
+  },
+  {
+    "year": 2012,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 9737,
+    "breath_tests_total": 736209,
+    "positivity_rate_pct": 1.3226
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1399,
+    "breath_tests_total": 129577,
+    "positivity_rate_pct": 1.0797
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 20193,
+    "breath_tests_total": 5153136,
+    "positivity_rate_pct": 0.3919
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 12395,
+    "breath_tests_total": 156719,
+    "positivity_rate_pct": 7.9091
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 25291,
+    "breath_tests_total": 3696689,
+    "positivity_rate_pct": 0.6842
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 8890,
+    "breath_tests_total": 525003,
+    "positivity_rate_pct": 1.6933
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 2782,
+    "breath_tests_total": 551444,
+    "positivity_rate_pct": 0.5045
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 11442,
+    "breath_tests_total": 3482898,
+    "positivity_rate_pct": 0.3285
+  },
+  {
+    "year": 2013,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 8636,
+    "breath_tests_total": 897397,
+    "positivity_rate_pct": 0.9623
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1267,
+    "breath_tests_total": 147552,
+    "positivity_rate_pct": 0.8587
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 19531,
+    "breath_tests_total": 5916338,
+    "positivity_rate_pct": 0.3301
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 13562,
+    "breath_tests_total": 175914,
+    "positivity_rate_pct": 7.7094
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 23023,
+    "breath_tests_total": 3887768,
+    "positivity_rate_pct": 0.5922
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 8154,
+    "breath_tests_total": 554882,
+    "positivity_rate_pct": 1.4695
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 2585,
+    "breath_tests_total": 475510,
+    "positivity_rate_pct": 0.5436
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 12062,
+    "breath_tests_total": 3837417,
+    "positivity_rate_pct": 0.3143
+  },
+  {
+    "year": 2014,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 11034,
+    "breath_tests_total": 1236194,
+    "positivity_rate_pct": 0.8926
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1134,
+    "breath_tests_total": 121416,
+    "positivity_rate_pct": 0.934
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 18750,
+    "breath_tests_total": 6117884,
+    "positivity_rate_pct": 0.3065
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 14192,
+    "breath_tests_total": 181843,
+    "positivity_rate_pct": 7.8045
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 20357,
+    "breath_tests_total": 3574901,
+    "positivity_rate_pct": 0.5694
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 8208,
+    "breath_tests_total": 563224,
+    "positivity_rate_pct": 1.4573
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 2327,
+    "breath_tests_total": 469610,
+    "positivity_rate_pct": 0.4955
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 9315,
+    "breath_tests_total": 3063830,
+    "positivity_rate_pct": 0.304
+  },
+  {
+    "year": 2015,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 10071,
+    "breath_tests_total": 1579274,
+    "positivity_rate_pct": 0.6377
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1005,
+    "breath_tests_total": 116490,
+    "positivity_rate_pct": 0.8627
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 17442,
+    "breath_tests_total": 4908582,
+    "positivity_rate_pct": 0.3553
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 7571,
+    "breath_tests_total": 171618,
+    "positivity_rate_pct": 4.4115
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 18673,
+    "breath_tests_total": 3411115,
+    "positivity_rate_pct": 0.5474
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 5155,
+    "breath_tests_total": 529440,
+    "positivity_rate_pct": 0.9737
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 2322,
+    "breath_tests_total": 512906,
+    "positivity_rate_pct": 0.4527
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 10337,
+    "breath_tests_total": 3054233,
+    "positivity_rate_pct": 0.3384
+  },
+  {
+    "year": 2016,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 8912,
+    "breath_tests_total": 1926480,
+    "positivity_rate_pct": 0.4626
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1057,
+    "breath_tests_total": 88929,
+    "positivity_rate_pct": 1.1886
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 18022,
+    "breath_tests_total": 4898088,
+    "positivity_rate_pct": 0.3679
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 7846,
+    "breath_tests_total": 199016,
+    "positivity_rate_pct": 3.9424
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 16489,
+    "breath_tests_total": 2766038,
+    "positivity_rate_pct": 0.5961
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 6007,
+    "breath_tests_total": 591574,
+    "positivity_rate_pct": 1.0154
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 2070,
+    "breath_tests_total": 462344,
+    "positivity_rate_pct": 0.4477
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 9969,
+    "breath_tests_total": 4230974,
+    "positivity_rate_pct": 0.2356
+  },
+  {
+    "year": 2017,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 9062,
+    "breath_tests_total": 2549578,
+    "positivity_rate_pct": 0.3554
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 1114,
+    "breath_tests_total": 89989,
+    "positivity_rate_pct": 1.2379
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 17989,
+    "breath_tests_total": 5538320,
+    "positivity_rate_pct": 0.3248
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 7672,
+    "breath_tests_total": 143408,
+    "positivity_rate_pct": 5.3498
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 16773,
+    "breath_tests_total": 2652739,
+    "positivity_rate_pct": 0.6323
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 4997,
+    "breath_tests_total": 519770,
+    "positivity_rate_pct": 0.9614
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 1723,
+    "breath_tests_total": 450715,
+    "positivity_rate_pct": 0.3823
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 7025,
+    "breath_tests_total": 3546342,
+    "positivity_rate_pct": 0.1981
+  },
+  {
+    "year": 2018,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 7550,
+    "breath_tests_total": 2094996,
+    "positivity_rate_pct": 0.3604
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 933,
+    "breath_tests_total": 90248,
+    "positivity_rate_pct": 1.0338
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 17084,
+    "breath_tests_total": 6014549,
+    "positivity_rate_pct": 0.284
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 7775,
+    "breath_tests_total": 155950,
+    "positivity_rate_pct": 4.9856
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 16685,
+    "breath_tests_total": 2663066,
+    "positivity_rate_pct": 0.6265
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 4985,
+    "breath_tests_total": 563324,
+    "positivity_rate_pct": 0.8849
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "TAS",
+    "positive_breath_tests": 1805,
+    "breath_tests_total": 386687,
+    "positivity_rate_pct": 0.4668
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 9235,
+    "breath_tests_total": 3238498,
+    "positivity_rate_pct": 0.2852
+  },
+  {
+    "year": 2019,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 6878,
+    "breath_tests_total": 2135725,
+    "positivity_rate_pct": 0.322
+  },
+  {
+    "year": 2020,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 888,
+    "breath_tests_total": 39355,
+    "positivity_rate_pct": 2.2564
+  },
+  {
+    "year": 2020,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 13540,
+    "breath_tests_total": 2839850,
+    "positivity_rate_pct": 0.4768
+  },
+  {
+    "year": 2020,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 7362,
+    "breath_tests_total": 103102,
+    "positivity_rate_pct": 7.1405
+  },
+  {
+    "year": 2020,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 16060,
+    "breath_tests_total": 1351230,
+    "positivity_rate_pct": 1.1885
+  },
+  {
+    "year": 2020,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 4400,
+    "breath_tests_total": 402700,
+    "positivity_rate_pct": 1.0926
+  },
+  {
+    "year": 2020,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 4976,
+    "breath_tests_total": 1153190,
+    "positivity_rate_pct": 0.4315
+  },
+  {
+    "year": 2020,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 7510,
+    "breath_tests_total": 1292819,
+    "positivity_rate_pct": 0.5809
+  },
+  {
+    "year": 2021,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 767,
+    "breath_tests_total": 16141,
+    "positivity_rate_pct": 4.7519
+  },
+  {
+    "year": 2021,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 12980,
+    "breath_tests_total": 2794704,
+    "positivity_rate_pct": 0.4644
+  },
+  {
+    "year": 2021,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 5492,
+    "breath_tests_total": 81987,
+    "positivity_rate_pct": 6.6986
+  },
+  {
+    "year": 2021,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 16402,
+    "breath_tests_total": 1569648,
+    "positivity_rate_pct": 1.0449
+  },
+  {
+    "year": 2021,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 4062,
+    "breath_tests_total": 480023,
+    "positivity_rate_pct": 0.8462
+  },
+  {
+    "year": 2021,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 6363,
+    "breath_tests_total": 1343080,
+    "positivity_rate_pct": 0.4738
+  },
+  {
+    "year": 2021,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 7417,
+    "breath_tests_total": 1975362,
+    "positivity_rate_pct": 0.3755
+  },
+  {
+    "year": 2022,
+    "jurisdiction": "ACT",
+    "positive_breath_tests": 847,
+    "breath_tests_total": 35591,
+    "positivity_rate_pct": 2.3798
+  },
+  {
+    "year": 2022,
+    "jurisdiction": "NSW",
+    "positive_breath_tests": 15794,
+    "breath_tests_total": 3825522,
+    "positivity_rate_pct": 0.4129
+  },
+  {
+    "year": 2022,
+    "jurisdiction": "NT",
+    "positive_breath_tests": 5120,
+    "breath_tests_total": 65819,
+    "positivity_rate_pct": 7.7789
+  },
+  {
+    "year": 2022,
+    "jurisdiction": "QLD",
+    "positive_breath_tests": 17007,
+    "breath_tests_total": 1657920,
+    "positivity_rate_pct": 1.0258
+  },
+  {
+    "year": 2022,
+    "jurisdiction": "SA",
+    "positive_breath_tests": 4556,
+    "breath_tests_total": 554774,
+    "positivity_rate_pct": 0.8212
+  },
+  {
+    "year": 2022,
+    "jurisdiction": "VIC",
+    "positive_breath_tests": 8280,
+    "breath_tests_total": 2203908,
+    "positivity_rate_pct": 0.3757
+  },
+  {
+    "year": 2022,
+    "jurisdiction": "WA",
+    "positive_breath_tests": 7331,
+    "breath_tests_total": 2179499,
+    "positivity_rate_pct": 0.3364
+  }
+]
